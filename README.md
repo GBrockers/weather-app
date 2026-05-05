@@ -8,4 +8,4 @@ A simple weather application built with JavaScript and Open-Meteo API.
 - Handles invalid input
 - Responsive UI
 ## Live Demo
-https://GBrockers.github.io/weather-app/
+https://gbrockers.github.io/weather-app/
